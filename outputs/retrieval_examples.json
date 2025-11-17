@@ -1,0 +1,27 @@
+[
+  {
+    "chunk_id": "fed_002",
+    "title": "Federated Learning",
+    "text_preview": "Federated learning es una técnica que entrena modelos sin compartir datos..."
+  },
+  {
+    "chunk_id": "fed_006",
+    "title": "Federated Learning",
+    "text_preview": "En salud, se usa para predecir ingresos, segmentar tumores..."
+  },
+  {
+    "chunk_id": "fed_008",
+    "title": "Federated Learning",
+    "text_preview": "Desafíos: datos no IID, privacidad, comunicación..."
+  },
+  {
+    "chunk_id": "fed_010",
+    "title": "Federated Learning",
+    "text_preview": "Ataques como model inversion siguen siendo posibles..."
+  },
+  {
+    "chunk_id": "fed_013",
+    "title": "Federated Learning",
+    "text_preview": "En la vida real, hay problemas con redes inestables..."
+  }
+]

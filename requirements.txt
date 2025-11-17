@@ -1,0 +1,10 @@
+# requirements.txt for Task 2 — Wikipedia-based RAG Summarizer (LangChain + ChromaDB)
+wikipedia-api==0.7.1
+sentence-transformers==3.0.1
+chromadb==1.1.1
+langchain==0.3.27
+transformers==4.47.0
+torch==2.6.1
+pandas==2.2.2
+langchain-community==0.3.31
+langchain-chroma==0.1.3
